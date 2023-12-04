@@ -1,5 +1,10 @@
 # 335Project2
-Juli Nazzario, Nestor Reategui, Mariah Salgado
-jnazzario@csu.fullerton.edu
-nestor_remo@csu.fullerton.edu
-Mariahhsall@csu.fullerton.edu
+Juli Nazzario   - jnazzario@csu.fullerton.edu
+Nestor Reategui - nestor_remo@csu.fullerton.edu
+Mariah Salgado  - Mariahhsall@csu.fullerton.edu
+
+**Execute both exhaustive.py and dynamic.py with**
+`python3 exhaustive.py`
+`python3 dynamic.py`
+
+
