@@ -1,0 +1,22 @@
+Exhaustive Output: 11
+
+Exhaustive Output: 12
+
+Exhaustive Output: 47
+
+Exhaustive Output: 6
+
+Exhaustive Output: 14
+
+Exhaustive Output: 5
+
+Exhaustive Output: 35
+
+Exhaustive Output: 5
+
+Exhaustive Output: 4
+
+Exhaustive Output: 34
+
+Exhaustive Output: 21
+
